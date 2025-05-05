@@ -176,4 +176,5 @@ cython_debug/
 
 # Data sets - this is hidden as the dataset is taken from Dr.Hong and not public
 data/Final_Immigrants_geolocation_data.csv
+data/cleaned_immigrant_tweets.csv
 
